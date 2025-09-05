@@ -1,1 +1,13 @@
-This game is rather hard. I'm serious.
+1. The platform we played on, a web browser, worked alright for playing the game, but there were some control issues as a result of that.
+
+2. The climbing, running and jumping mechanics are actually quite involved which I discovered rather quickly when playing, I was surprised by the amount of progression that seemed to be in the game, with collecting various items to continue. The platforming elements like fall damage and weird jump distances were kind hard to deal with, but overall they work fine for the game.
+
+3. I think it was kinda funny to see the story just written out in book form, but having the timer in game as a constant reminder of the plot was charming enough. The setting and plot made sense given the gameplay, so there was no dissonance there.
+
+4. The motion of the character was extremely fluid, and the animations linked together nicely. The HUD wasn't cluttered, and points of interest were almost always obvious enough to be reasonable. It was kind hard to tell the exact location of the character though, with the diagonal field of view.
+
+5. Well, without playing through the entire game myself, my judgement of the pacing is that it works well as a "go until you get it" sort of game, where each run through teaches you something new and once you get all the pieces, you'll finish. Again, the timer assists with this as you know exactly how far along you should be.
+
+6. The game certainly is engaging because of its puzzling elements and the fact that the game is maze-like. There also seem to be multiple paths to take at any given time, whether or not they are actually all useful. These sorts of things help with the game actually being enticing and enjoyable.
+
+7. The audio is done very well. Disregarding that I don't think the music is particularly enjoyable to listen to, not because it's made poorly, I'm just not a fan, the sound effect design for doors, things of interest, and the characters actions are specific to individual things which makes it obvious what is happening at any given time, which is extremely valuable in a game like this. Jingles represent important things and are distinct.
